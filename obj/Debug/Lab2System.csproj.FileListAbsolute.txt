@@ -1,0 +1,11 @@
+C:\Users\Gasamagera\Downloads\Lab2System\Lab2System\bin\Debug\Lab2System.exe.config
+C:\Users\Gasamagera\Downloads\Lab2System\Lab2System\bin\Debug\Lab2System.exe
+C:\Users\Gasamagera\Downloads\Lab2System\Lab2System\bin\Debug\Lab2System.pdb
+C:\Users\Gasamagera\Downloads\Lab2System\Lab2System\obj\Debug\Lab2System.csproj.AssemblyReference.cache
+C:\Users\Gasamagera\Downloads\Lab2System\Lab2System\obj\Debug\Lab2System.ChooseForm.resources
+C:\Users\Gasamagera\Downloads\Lab2System\Lab2System\obj\Debug\Lab2System.Form1.resources
+C:\Users\Gasamagera\Downloads\Lab2System\Lab2System\obj\Debug\Lab2System.Properties.Resources.resources
+C:\Users\Gasamagera\Downloads\Lab2System\Lab2System\obj\Debug\Lab2System.csproj.GenerateResource.cache
+C:\Users\Gasamagera\Downloads\Lab2System\Lab2System\obj\Debug\Lab2System.csproj.CoreCompileInputs.cache
+C:\Users\Gasamagera\Downloads\Lab2System\Lab2System\obj\Debug\Lab2System.exe
+C:\Users\Gasamagera\Downloads\Lab2System\Lab2System\obj\Debug\Lab2System.pdb
