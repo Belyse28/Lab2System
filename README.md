@@ -1,6 +1,6 @@
 # Lab 2 – Bicycle Rental and Mushroom Identification System
 
-# Project Overview
+## Project Overview
 A C# Windows Forms desktop application for the .NET Assignment 2 (Lab 1 problems in a GUI).
 The user logs in, chooses a service, and uses either the **Bicycle Rental** calculator or the **Mushroom Identification** quiz.
 
