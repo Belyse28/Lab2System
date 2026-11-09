@@ -68,7 +68,3 @@ Each form has a `*.Designer.cs` file (layout of controls) and a `*.cs` file (eve
 - **Visual Studio:** open `Lab2System.slnx` and press **F5**.
 - **VS Code:** press **Ctrl + Shift + B** (build and run task is included in `.vscode`).
 - **Terminal:**
-  ```powershell
-  & "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\MSBuild.exe" Lab2System\Lab2System.csproj -v:m
-  .\Lab2System\bin\Debug\Lab2System.exe
-  ```
